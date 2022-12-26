@@ -1,2 +1,4 @@
-# inheritance-CS50-
-Simulate genetic inheritance of blood type
+# inheritance (CS50)
+
+##### CS50 Week 5 Labs
+* Simulate genetic inheritance of blood type
